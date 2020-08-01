@@ -189,7 +189,7 @@ In this repository there are resources for 3 areas: <br>
 
 * **Kicad Like a Pro, 2nd edition** <br>
   by Dr. Peter Dalmaris <br>
-  Pag 459 (A4)
+  Pag 459 (A4) <br>
   [link](https://techexplorations.com/st/klp_2e/)
 
 * **PCB design course KiCAD like a Pro**
@@ -218,7 +218,7 @@ In this repository there are resources for 3 areas: <br>
   Pag 144
 
 * **GDB Pocket Reference** <br>
-  by Arnold Robbins
+  by Arnold Robbins <br>
   Pag 78
 
 ## Git
