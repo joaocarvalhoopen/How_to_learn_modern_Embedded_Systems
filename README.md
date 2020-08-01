@@ -13,6 +13,9 @@ In this repository there are resources for 3 areas: <br>
 
 ## C programming
 
+* **Simple notes on the C Programming Language** <br>
+  [link](https://github.com/joaocarvalhoopen/Simple_notes_on_the_C_Programming_Language)
+
 * **C Programming - A Modern Approach 2nd Ed (C99)** <br> 
   by K. N. King  <br>
   Pag 832  
