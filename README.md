@@ -107,6 +107,16 @@ In this repository there are resources for 3 areas: <br>
 * FreeRTOS **Getting Started**, **Guide** and **reference manual** on freeRTOS site. <br>
   [FreeRTOS Documentation](https://www.freertos.org/Documentation/RTOS_book.html)
 
+## Fixed Point Math 
+
+* Introduction to Fixed Point Math for Embedded Systems - Part 1 of 3 <br>
+  [https://www.youtube.com/watch?v=bbFBgXndmP0](https://www.youtube.com/watch?v=bbFBgXndmP0)
+
+* Introduction to Fixed Point Math for Embedded Systems - Part 2 of 3 <br>
+  [https://www.youtube.com/watch?v=7pkXlcapNB4](https://www.youtube.com/watch?v=7pkXlcapNB4)
+
+* Introduction to Fixed Point Math for Embedded Systems - Part 3 of 3 <br>
+  [https://www.youtube.com/watch?v=SrELHqRqKjo](https://www.youtube.com/watch?v=SrELHqRqKjo)
 
 
 # Linux
