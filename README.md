@@ -50,7 +50,6 @@ In this repository there are resources for 3 areas: <br>
   Pag 324
 
 
-
 # Microcontrollers
 
 * **Bruce Land microcontrollers classes** <br>
@@ -118,8 +117,20 @@ In this repository there are resources for 3 areas: <br>
 * Introduction to Fixed Point Math for Embedded Systems - Part 3 of 3 <br>
   [https://www.youtube.com/watch?v=SrELHqRqKjo](https://www.youtube.com/watch?v=SrELHqRqKjo)
 
+## Microcontrollers for less than 1 dollar
+
+* The amazing $1 microcontroller (Jay Carlson) <br>
+  A new series that explores 21 different microcontrollers — all less than $1 — to help familiarize you with all the major ecosystems out there. <br>
+  [https://jaycarlson.net/microcontrollers/](https://jaycarlson.net/microcontrollers/)
+
 
 # Linux
+
+## Learn Embedded Linux
+
+* So you want to build an embedded Linux System? (Jay Carlson) <br>
+  A primer on how embedded Linux systems are developed, plus an exploration of the hardware and software ecosystems of ten different commonly-available CPUs. <br>
+  [https://jaycarlson.net/embedded-linux/](https://jaycarlson.net/embedded-linux/)
 
 ## Command line
 
@@ -158,7 +169,6 @@ In this repository there are resources for 3 areas: <br>
   Pag 720
 
 
-
 # FPGA's
 
 * **Bruce Land FPGA's classes** <br>
@@ -187,7 +197,6 @@ In this repository there are resources for 3 areas: <br>
 * [Project IceStorm for Latice ICE40](http://www.clifford.at/icestorm/)
 
 * [Digital Design for FPGAs, with free tools](https://github.com/Obijuan/open-fpga-verilog-tutorial/wiki/Home_EN)
-
 
 
 # Others
