@@ -83,6 +83,66 @@ This example is beautifully explained in 15 minutes with clarity and simplicity.
   [https://github.com/joaocarvalhoopen/How_to_learn_modern_Python](https://github.com/joaocarvalhoopen/How_to_learn_modern_Python)
 
 
+## Rust programming
+
+* **How to learn modern Rust** <br>
+  [https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust)
+
+* **The Rust Programming Language Book** <br>
+  by Steve Klabnik and Carol Nichols, with contributions from the Rust Community <br>
+  [https://doc.rust-lang.org/stable/book/](https://doc.rust-lang.org/stable/book/)
+
+* **Programming Rust: Fast, Safe Systems Development 2th Ed** <br>
+  by Jim Blandy, Jason Orendorff <br>
+  Pag 736
+
+* **Rust for Rustaceans: Idiomatic Programming for Experienced Developers** <br>
+  by Jon Gjengset  
+
+
+### Embedded Rust
+
+* **Discovery Book** <br>
+  [https://docs.rust-embedded.org/discovery/](https://docs.rust-embedded.org/discovery/)
+
+* **The Embedded Rust Book** <br>
+  [https://docs.rust-embedded.org/book/](https://docs.rust-embedded.org/book/)
+
+* **Workbook for Embedded Workshops - Book** <br>
+  [https://embedded-trainings.ferrous-systems.com/](https://embedded-trainings.ferrous-systems.com/)
+
+* **The Embedonomicon Book** <br>
+  [https://docs.rust-embedded.org/embedonomicon/](https://docs.rust-embedded.org/embedonomicon/)
+
+* **The Embedded Working Group Newsletter or Blog** <br>
+  [https://rust-embedded.github.io/blog/](https://rust-embedded.github.io/blog/)
+
+* **Awesome embedded rust - Github** <br>
+  [https://github.com/rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) 
+
+
+### Rust on or for the Raspberry Pi
+
+There are two modes of using Rust with the Raspberry Pi. <br>
+The first one is installing Rust development tools on the Raspberry Pi itself, and the second one is installing on the PC and making cross-compilation to generate a executable that runs on the Raspberry Pi. <br>
+
+
+### Developing on the Raspberry Pi and running Rust programs on the Raspberry Pi
+
+* **How to Get Started With Rust on Raspberry Pi** <br>
+  [https://www.muo.com/tag/getting-started-rust-raspberry-pi/](https://www.muo.com/tag/getting-started-rust-raspberry-pi/)
+
+
+### Developing on the PC and cross-compiling to run Rust programs on the Raspberry Pi
+
+* **Cross Compiling Rust for the Raspberry Pi** <br>
+  It also explains a method to automatically coping the file to the Raspberry Pi after compilation. <br>
+  [https://chacin.dev/blog/cross-compiling-rust-for-the-raspberry-pi/](https://chacin.dev/blog/cross-compiling-rust-for-the-raspberry-pi/)
+
+* **Cross compiling Rust for Raspberry Pi** <br>
+  [https://dev.to/h_ajsf/cross-compiling-rust-for-raspberry-pi-4iai](https://dev.to/h_ajsf/cross-compiling-rust-for-raspberry-pi-4iai)
+
+
 ## Algorithms
 
 * **Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People** <br>
