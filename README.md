@@ -186,7 +186,7 @@ book <br>
 
 * **Laboratory Manual for Embedded Controllers using C and Arduino 2nd Ed** <br>
   By James Fiore <br>
-  Pag. 100 Price Free Creative commons, but small symbolic price if bought on paper on Amazon.
+  Pag 100 Price Free Creative commons, but small symbolic price if bought on paper on Amazon.
 book <br>
   [https://www2.mvcc.edu/users/faculty/jfiore/freebooks.html](https://www2.mvcc.edu/users/faculty/jfiore/freebooks.html)
 
