@@ -9,9 +9,9 @@ In this repository there are resources for 3 areas: <br>
 * Embedded Linux drivers and systems programming
 
 
-# An example of engineering a project from idea to final product
+# Engineering a project from idea to final product
 
-Beautifully explained in 15 minutes with clarity and simplicity. With access to all the files (Open Hardware). A really good and simple project of IoT to learn from. Study it and see also the other videos from the same Youtuber, because Sayanee Basu is a really good educator in embedded development. <br>
+This example is beautifully explained in 15 minutes with clarity and simplicity. With access to all the files (Open Hardware). A really good and simple project of IoT to learn from. Study it and see also the other videos from the same Youtuber, because Sayanee Basu is a really good educator in embedded development. A nice video to start this guide. <br>
 
 1. Initial idea
 2. Market study. Search for other products in the market and open projects.
