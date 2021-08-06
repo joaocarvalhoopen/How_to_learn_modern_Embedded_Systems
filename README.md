@@ -102,6 +102,15 @@ This example is beautifully explained in 15 minutes with clarity and simplicity.
 
 ### Embedded Rust
 
+* **Video - An Overview of the Embedded Rust Ecosystem** <br>
+  [https://www.youtube.com/watch?v=vLYit_HHPaY](https://www.youtube.com/watch?v=vLYit_HHPaY) 
+
+* **Awesome embedded rust - Github** <br>
+  [https://github.com/rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) 
+
+* **The Embedded Working Group Newsletter or Blog** <br>
+  [https://rust-embedded.github.io/blog/](https://rust-embedded.github.io/blog/)
+
 * **Discovery Book** <br>
   [https://docs.rust-embedded.org/discovery/](https://docs.rust-embedded.org/discovery/)
 
@@ -113,12 +122,6 @@ This example is beautifully explained in 15 minutes with clarity and simplicity.
 
 * **The Embedonomicon Book** <br>
   [https://docs.rust-embedded.org/embedonomicon/](https://docs.rust-embedded.org/embedonomicon/)
-
-* **The Embedded Working Group Newsletter or Blog** <br>
-  [https://rust-embedded.github.io/blog/](https://rust-embedded.github.io/blog/)
-
-* **Awesome embedded rust - Github** <br>
-  [https://github.com/rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) 
 
 
 ### Rust on or for the Raspberry Pi
