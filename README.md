@@ -123,6 +123,30 @@ This example is beautifully explained in 15 minutes with clarity and simplicity.
 * **The Embedonomicon Book** <br>
   [https://docs.rust-embedded.org/embedonomicon/](https://docs.rust-embedded.org/embedonomicon/)
 
+* **Video - RTIC: Real Time Interrupt driven Concurrency**<br>
+  RTIC is a RTOS - Real Time Operating System.<br>
+  [https://www.youtube.com/watch?v=saNdh0m_qHc](https://www.youtube.com/watch?v=saNdh0m_qHc)
+
+* **Github - rtic-rs - cortex-m-rtic**<br>
+  See RTIC book documentation.<br>
+  [https://github.com/rtic-rs/cortex-m-rtic](https://github.com/rtic-rs/cortex-m-rtic)
+
+* **Video - Grepit about the Rust RTIC framework**<br>
+  [https://www.youtube.com/watch?v=sSJ-Md8nwIM](https://www.youtube.com/watch?v=sSJ-Md8nwIM) 
+
+* **Video - Bare Metal Audio Programming With Rust - Antoine van Gelder - ADC20**<br>
+  [https://www.youtube.com/watch?v=udlK1LQ3f3g](https://www.youtube.com/watch?v=udlK1LQ3f3g)<br>
+  Slides<br>
+  [https://flowdsp.io/talks/talk-adc20/#1](https://flowdsp.io/talks/talk-adc20/#1)
+
+* **Video - Building a simple logic analyser in Rust** <br>
+  Rust Linz, September 2020 - Roland Ruckerbauer - Embedded Rust<br>
+  [https://www.youtube.com/watch?v=xY342ACNXFg](https://www.youtube.com/watch?v=xY342ACNXFg)<br>
+  Slides<br>
+  [https://github.com/ruabmbua/rlogic/blob/master/presentation.pdf](https://github.com/ruabmbua/rlogic/blob/master/presentation.pdf)<br>
+  Github - ruabmbua / rlogic<br>
+  [https://github.com/ruabmbua/rlogic](https://github.com/ruabmbua/rlogic)
+
 
 ### Rust on or for the Raspberry Pi
 
