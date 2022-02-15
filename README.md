@@ -148,6 +148,21 @@ This example is beautifully explained in 15 minutes with clarity and simplicity.
   [https://github.com/ruabmbua/rlogic](https://github.com/ruabmbua/rlogic)
 
 
+### Embedded Rust with STM32 BluePill - STM32F103
+
+* **STM32 BluePill in Rust - Project template and lot's of info** <br>
+  This is the project template I use in my BluePill projects. <br>
+  [https://github.com/joaocarvalhoopen/stm32_bluepill_in_rust__Template](https://github.com/joaocarvalhoopen/stm32_bluepill_in_rust__Template)
+
+
+### Embedded Rust with Raspberry Pi Pico - 4 dollars board
+
+* **All relevant Info and a starting project Template.** <br>
+  Where I have put all the info that I consider to be relevant for Pico development in Rust. <br>
+  **Raspberry Pi Pico in Rust Proj Template with RTIC USB-Serial and UF2** <br>
+  [https://github.com/joaocarvalhoopen/Raspberry_Pi_Pico_in_Rust__Proj_Template_with_RTIC_USB-Serial_UF2](https://github.com/joaocarvalhoopen/Raspberry_Pi_Pico_in_Rust__Proj_Template_with_RTIC_USB-Serial_UF2)
+
+
 ### Rust on or for the Raspberry Pi
 
 There are two modes of using Rust with the Raspberry Pi. <br>
@@ -209,13 +224,13 @@ The first one is installing Rust development tools on the Raspberry Pi itself, a
   By James Fiore <br>
   Pag 166 Price Free Creative commons, but small symbolic price if bought on paper on Amazon.
 book <br>
-  [https://www2.mvcc.edu/users/faculty/jfiore/freebooks.html](https://www2.mvcc.edu/users/faculty/jfiore/freebooks.html)
+  [Book and videos - http://www.dissidents.com/books.htm](http://www.dissidents.com/books.htm)
 
 * **Laboratory Manual for Embedded Controllers using C and Arduino 2nd Ed** <br>
   By James Fiore <br>
   Pag 100 Price Free Creative commons, but small symbolic price if bought on paper on Amazon.
 book <br>
-  [https://www2.mvcc.edu/users/faculty/jfiore/freebooks.html](https://www2.mvcc.edu/users/faculty/jfiore/freebooks.html)
+  [Book and videos - http://www.dissidents.com/books.htm](http://www.dissidents.com/books.htm)
 
 
 ## Arduino-CLI
